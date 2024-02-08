@@ -1,4 +1,5 @@
 let greetings_everyone = 'Assalaamualaikum'
 let name = 'Sheikh Jibran Ahmed'
-console.log(greetings_everyone + ' ' + name)
+let number = '03159936336'
+console.log(greetings_everyone + ' ' + name + ' ' + number)
 

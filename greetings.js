@@ -1,2 +1,4 @@
 let greetings_everyone = 'Assalaamualaikum'
-console.log(greetings_everyone)
+let name = 'Sheikh Jibran Ahmed'
+console.log(greetings_everyone + ' ' + name)
+
